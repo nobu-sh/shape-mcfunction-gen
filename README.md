@@ -42,7 +42,7 @@ coords:
 
 > boiler has three dynamic values `$x` `$y` `$z` these values will be replaced with the calculated coordinates for the generated shape
 
-Once you hace the config filled out to your desires just run the bin again and the function will output in `/out/function.mcfunction`
+Once you have the config filled out to your desires just run the bin again and the function will output in `/out/function.mcfunction`
 
 The above config if ran will output something like so:
 
