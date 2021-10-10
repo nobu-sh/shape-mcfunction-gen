@@ -1,0 +1,1 @@
+export * as YAML from 'https://deno.land/std@0.82.0/encoding/yaml.ts'
